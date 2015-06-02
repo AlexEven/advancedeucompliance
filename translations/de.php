@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_d602cd3160dcb3b836420a2e5683cb0f'] = 'Europäische Rechtssicherheit';
-$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_1d988a1aee4a3aefdab181330c484420'] = 'Dieses Modul hilft europäischen Händler, die Rechtssicherheit des Shops in ihrem Land zu gewährleisten.';
+$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_1d988a1aee4a3aefdab181330c484420'] = 'Dieses Modul hilft europäischen Händlern, die Rechtssicherheit des Shops in ihrem Land zu gewährleisten.';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_bb8956c67b82c7444a80c6b2433dd8b4'] = 'Möchten Sie das Modul wirklich deinstallieren?';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_cac77d4c7de337f13ad1e89a8cecbc7f'] = 'Lieferzeit 1-2 Werktage';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_eeb992239a8454067cd7a47bbf0df359'] = 'Lieferzeit 7-10 Werktage';
@@ -42,7 +42,7 @@ $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_307676a395a3e91
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_ea6af6c587b95c2434e8e159d5461ac5'] = 'Aktiviere \"Nachbestellen\"';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_effd118ee85f0eb8f280a083b86e6f98'] = 'Aktiviere One-Page-Checkout';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_d15539483b69dff55697a2508d6e4164'] = 'MwSt. auf Versand/Verpackung aufteilen ';
-$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_f9c04d365a4cfd887736a0f1dd367749'] = 'MwSt. für Versand und Verpackung entsprechend der Steueranteile im Wrenkorb berechnen ';
+$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_f9c04d365a4cfd887736a0f1dd367749'] = 'MwSt. für Versand und Verpackung entsprechend der Steueranteile im Warenkorb berechnen ';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_fcc61e05767ec3f1864c2f78086a596c'] = '-- Zugehörige CMS-Seite auswählen --';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_ed6445aa0265b2dbd6d004619f94ee72'] = '-- Zugehörige CMS-Seite auswählen --';
 $_MODULE['<{advancedeucompliance}prestashop>adminaeuccontroller_d602cd3160dcb3b836420a2e5683cb0f'] = 'Europäische Rechtssicherheit';
@@ -55,6 +55,6 @@ $_MODULE['<{advancedeucompliance}prestashop>legal_cms_manager_form_c47ab33401ead
 $_MODULE['<{advancedeucompliance}prestashop>legal_cms_manager_form_c9cc8cce247e49bae79f15173ce97354'] = 'Speichern';
 $_MODULE['<{advancedeucompliance}prestashop>legal_cms_manager_form_bc6cae5795433bf5d5052485128f080c'] = 'CMS-Seite hinzufügen';
 $_MODULE['<{advancedeucompliance}prestashop>hookoverridetosdisplay_97abaa921b2270031573362f57aad4a4'] = 'Allgemeine Geschäftsbedingungen (AGB)';
-$_MODULE['<{advancedeucompliance}prestashop>hookoverridetosdisplay_1aeb4fe3551d16cc0d39f858f37f367a'] = 'Ich habe die Allgemeine Geschäftsbedingungen und das Widerspruchsrecht zur Kenntnis genommen und Stimme uneingeschränkt zu.';
+$_MODULE['<{advancedeucompliance}prestashop>hookoverridetosdisplay_1aeb4fe3551d16cc0d39f858f37f367a'] = 'Ich habe die Allgemeine Geschäftsbedingungen und das Widerspruchsrecht zur Kenntnis genommen und stimme uneingeschränkt zu.';
 $_MODULE['<{advancedeucompliance}prestashop>hookoverridetosdisplay_d53afd7ef9af5405df040482add9b153'] = '(AGB lesen)';
 $_MODULE['<{advancedeucompliance}prestashop>hookoverridetosdisplay_1a239a965f9b37cf7786a6bfdf38055c'] = '(Widerspruchsrecht lesen)';
